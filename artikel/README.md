@@ -1,6 +1,6 @@
 # Indonesia Open Network (ION): Memasuki Era Baru Infrastruktur Digital dan Decentralisasi Ekonomi
 
-**Oleh: [Nama Anda]**
+**Oleh: Rolly Maulana Awangga**
 
 *Abstrak:*
 Transformasi digital Indonesia kini memasuki fase krusial: peralihan dari ekonomi berbasis platform terpusat menuju infrastruktur digital terbuka. Indonesia Open Network (ION), yang diadopsi dari protokol Beckn 2.0, bukan sekadar inisiatif teknologi, melainkan sebuah langkah kebijakan strategis untuk mendemokratisasi akses pasar. Tulisan ini mengkaji secara multi-disiplin bagaimana ION bekerja secara teknis melalui arsitektur terdesentralisasi Beckn, serta implikasi sosiologis dan ekonominya bagi ekosistem Usaha Mikro, Kecil, dan Menengah (UMKM) di Indonesia.
