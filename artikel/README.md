@@ -1,7 +1,3 @@
-Berikut adalah artikel lengkap yang disusun dengan narasi akademis namun tetap accessible, cocok untuk publikasi di blog personal atau platform media akademik.
-
-***
-
 # Indonesia Open Network (ION): Memasuki Era Baru Infrastruktur Digital dan Decentralisasi Ekonomi
 
 **Oleh: [Nama Anda]**
